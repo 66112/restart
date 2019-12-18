@@ -36,3 +36,4 @@ int main()
 	get_val(v, s);
 	return 0;
 }
+
